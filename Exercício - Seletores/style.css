@@ -1,0 +1,30 @@
+div {
+    display: inline-block;
+    border: 1px solid white;
+    width: 200px;
+    height: 200px;
+}
+
+#um, #seis, #vinteCinco, #trinta {
+border: 1px solid black;
+}
+
+.linha1 div, .linha5 div, #sete, #doze, #treze, #dezoito, #dezenove, #vinteQuatro{
+    background-color: red;
+    color:red;
+}
+
+#oito, #nove, #dez, #onze{
+    background-color:#55acee;
+    color: #55acee;
+}
+
+#quatorze, #quinze, #dezesseis, #dezessete{
+    background-color: rgb(16, 175, 87);
+    color: rgb(16, 175, 87);;
+}
+
+#vinte, #vinteUm, #vinteDois, #vinteTres{
+    background-color: yellow;
+    color:yellow;
+}

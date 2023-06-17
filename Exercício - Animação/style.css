@@ -1,0 +1,35 @@
+.container{
+    position: relative;
+    left:900px;
+    background-color: pink;
+    color:purple;
+    height: 1100px;
+    width: 1000px;
+    text-align: center;
+}
+h1{
+    font-size: 100px;
+    font-weight: bold;
+}
+h2{
+    font-size: 50px;
+}
+
+@keyframes imagem {
+    0% {
+        opacity: 1;
+    }
+    50%{
+        opacity: 0.2;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+
+.imagem{
+    animation-name: imagem;
+    animation-duration: 1s;
+    animation-delay: 500ms;
+    animation-iteration-count: infinite;
+}

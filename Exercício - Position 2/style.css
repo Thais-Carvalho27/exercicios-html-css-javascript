@@ -1,0 +1,22 @@
+.container{
+    background-color: green;
+    width: 1000px;
+    height: 2000px;
+}
+.azul{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    position: sticky;
+    top:0;
+}
+.vermelho{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+.amarelo{
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+}
